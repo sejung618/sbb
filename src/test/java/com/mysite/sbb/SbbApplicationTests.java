@@ -32,5 +32,7 @@ class SbbApplicationTests {
     void testJpa() {
     	//github test
     	//development
+    	//작업중...
+    	//깃허브 어려워ㅠㅠ
     }
 }
